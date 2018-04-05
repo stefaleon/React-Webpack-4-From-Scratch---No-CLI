@@ -8,3 +8,11 @@
 * `$ yarn add react react-dom`
 * `$ yarn add -D webpack webpack-dev-server webpack-cli`
 * `$ yarn add -D babel-core babel-loader babel-preset-env babel-preset-react html-webpack-plugin`
+
+
+&nbsp;
+### 02 Config Webpack
+
+* webpack.config.js
+* .babelrc
+* src/index.html
