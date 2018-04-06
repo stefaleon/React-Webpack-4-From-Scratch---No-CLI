@@ -16,3 +16,16 @@
 * webpack.config.js
 * .babelrc
 * src/index.html
+
+
+&nbsp;
+### 03 Start and Build
+
+* src/index.js
+* components/App.js
+* Add *start* and *build* scripts to *package.json*.
+
+    *  `$ npm start` starts *webpack-dev-server* for development.
+
+    *  `$ npm run build` creates the *dist* folder which contains a build for the app that can be used autonomously in production. 
+
