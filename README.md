@@ -27,5 +27,14 @@
 
     *  `$ npm start` starts *webpack-dev-server* for development.
 
-    *  `$ npm run build` creates the *dist* folder which contains a build for the app that can be used autonomously in production. 
+    *  `$ npm run build` creates the *dist* folder which contains a build for the app that can be used autonomously in production.
 
+
+&nbsp;
+### 04 Spread and CSS
+
+* Edit .babelrc (add "stage-2") to support the spread operator usage.
+
+* Add CSS support:
+  * `$ yarn add css-loader style-loader`
+  * Edit webpack.config.js.
